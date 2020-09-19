@@ -14,6 +14,7 @@ const Home = () => {
 
         <div className="home__row">
           <Product
+            id="12321341"
             title="The lean startup"
             price={29.99}
             image={
@@ -22,6 +23,7 @@ const Home = () => {
             rating={5}
           />
           <Product
+            id="49538094"
             title="Kenwood kMix Stand Mixer"
             price={239.99}
             image={
